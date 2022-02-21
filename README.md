@@ -1,2 +1,2 @@
-# Model3DToJPG
-convert  obj files to jpg
+# Model3DToPNG
+convert  obj files to PNG
